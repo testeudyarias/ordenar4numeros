@@ -1,0 +1,15 @@
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\bin\Debug\net6.0\OrdenarNumeros.exe
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\bin\Debug\net6.0\OrdenarNumeros.deps.json
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\bin\Debug\net6.0\OrdenarNumeros.runtimeconfig.json
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\bin\Debug\net6.0\OrdenarNumeros.dll
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\bin\Debug\net6.0\OrdenarNumeros.pdb
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\obj\Debug\net6.0\OrdenarNumeros.csproj.AssemblyReference.cache
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\obj\Debug\net6.0\OrdenarNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\obj\Debug\net6.0\OrdenarNumeros.AssemblyInfoInputs.cache
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\obj\Debug\net6.0\OrdenarNumeros.AssemblyInfo.cs
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\obj\Debug\net6.0\OrdenarNumeros.csproj.CoreCompileInputs.cache
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\obj\Debug\net6.0\OrdenarNumeros.dll
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\obj\Debug\net6.0\ref\OrdenarNumeros.dll
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\obj\Debug\net6.0\OrdenarNumeros.pdb
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\obj\Debug\net6.0\OrdenarNumeros.genruntimeconfig.cache
+C:\PruebaAPP\ordenar4numeros\OrdenarNumeros\obj\Debug\net6.0\refint\OrdenarNumeros.dll

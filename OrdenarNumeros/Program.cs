@@ -7,35 +7,40 @@
 
         for (int i = 1; i <= 4; i++)
         {
-            int mayorAB=0, mayorCD=0, mayor = -1;
-            if (a > b)
+            int mayor = 0;
+            if ( (a >= b) && (a >= c) && (a >= d) )
             {
-                mayorAB = a;
+                mayor = a;
+                a = -1;
             }
             else
             {
-                mayorAB = b;
+                if ((b >= a) && (b >= c) && (b >= d))
+                {
+                    mayor = b;
+                    b = -1;
+                }
+                else
+                {
+                    if ((c >= a) && (c >= b) && (c >= d))
+                    {
+                        mayor = c;
+                        c = -1;
+                    }
+                    else
+                    {
+                        if ((d >= a) && (d >= b) && (d >= c))
+                        {
+                            mayor = d;
+                            d = -1;
+                        }
+                    }
+                }
             }
 
-            if (c > d)
-            {
-                mayorCD = c;
-            }
-            else
-            {
-                mayorCD = d;
-            }
-
-            if (mayorAB > mayorCD)
-            {
-                mayor = mayorAB;
-            }
-            else
-            {
-                mayor = mayorCD;
-            }
-
+            Console.WriteLine(mayor);
         }
+        Console.ReadKey();
 
 
     }
